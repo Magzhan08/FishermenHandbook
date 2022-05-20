@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FishermenHandbook</string>
+    <string name="fish">Fish</string>
+    <string name="na">Nazhivko</string>
+    <string name="sna">Snasti</string>
+    <string name="history">Fish</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+</resources>
